@@ -1,0 +1,1 @@
+# siyah beyaz resim ve edge detection vb. transpose
